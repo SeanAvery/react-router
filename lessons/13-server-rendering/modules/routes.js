@@ -13,4 +13,4 @@ module.exports = (
     </Route>
     <Route path="/about" component={About} />
   </Route>
-)ss
+)
